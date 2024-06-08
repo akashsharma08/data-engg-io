@@ -1,0 +1,56 @@
+[
+  {
+    "image": "https://cdn.prod.website-files.com/625416528a3419ca302b6dd8/64103d8a1f1bfe79a96dfc03_Screenshot%202023-03-14%20at%202.54.55%20PM.webp",
+    "name": "Riya Bansal",
+    "designation": "Software Engineer",
+    "company": "https://cdn.prod.website-files.com/625416528a3419ca302b6dd8/625416528a341908ed2b6e05_Microsoft-Logo.svg"
+  },
+  {
+    "image": "https://cdn.prod.website-files.com/625416528a3419ca302b6dd8/63e61e4cb6925c7270e8a841_sankett.webp",
+    "name": "Sanket Singh",
+    "designation": "Software Engineer",
+    "company": "https://cdn.prod.website-files.com/625416528a3419ca302b6dd8/63577b0abeb85223aa0f6c97_Google%20svg.svg"
+  },
+  {
+    "image": "https://cdn.prod.website-files.com/625416528a3419ca302b6dd8/665565f186f23ee143920dee_sarja.jpeg",
+    "name": "Sajal Sirohi",
+    "designation": "Senior Data Engineer",
+    "company": "https://cdn.prod.website-files.com/625416528a3419ca302b6dd8/62552129b4e49c3c9f4db00b_Oracle%20Logo.png"
+  },
+  {
+    "image": "https://cdn.prod.website-files.com/625416528a3419ca302b6dd8/6655665750cbf886f7a486e2_Abhishek%20.jpeg",
+    "name": "Abhishek Rajbhanu",
+    "designation": "Principle Data Engineer",
+    "company": "https://cdn.prod.website-files.com/625416528a3419ca302b6dd8/62552129b4e49c3c9f4db00b_Oracle%20Logo.png"
+  },
+  {
+    "image": "https://cdn.prod.website-files.com/625416528a3419ca302b6dd8/643edbd45c69242160b1c247_Ravi%20Kant%201.webp",
+    "name": "Ravi Kant",
+    "designation": "Sr. Software Engineer - Cloud",
+    "company": "https://cdn.prod.website-files.com/625416528a3419ca302b6dd8/633eb627711b4c98b7fc8d6c_Apple1.png"
+  },
+  {
+    "image": "https://cdn.prod.website-files.com/625416528a3419ca302b6dd8/64af8a9038da68a9fed26c49_Atul%20Singh%20(1).webp",
+    "name": "Atul Singh",
+    "designation": "Senior SWQA Test Development Engineer",
+    "company": "https://cdn.prod.website-files.com/625416528a3419ca302b6dd8/63f36859c05007cadb9fbdfa_NVIDIA%20svg.svg"
+  },
+  {
+    "image": "https://cdn.prod.website-files.com/625416528a3419ca302b6dd8/656dd9264366275e50fdbecb_Screenshot%202023-12-04%20at%207.20.20%E2%80%AFPM.webp",
+    "name": "Jay Jain",
+    "designation": "Senior Data Engineer",
+    "company": "https://cdn.prod.website-files.com/625416528a3419ca302b6dd8/6593a71904d90dc84a5a16d8_7cfe16f5-272e-4372-9088-23b64c1613e1-removebg-preview.webp"
+  },
+  {
+    "image": "https://cdn.prod.website-files.com/625416528a3419ca302b6dd8/656dd86ab21e6519e78b75a9_1613985723240.jpeg",
+    "name": "Priyal Doshi",
+    "designation": "Data Scientist",
+    "company": "https://cdn.prod.website-files.com/625416528a3419ca302b6dd8/625416528a341908ed2b6e05_Microsoft-Logo.svg"
+  },
+  {
+    "image": "https://cdn.prod.website-files.com/625416528a3419ca302b6dd8/656dda2effc66a449a34b676_1595251997724.webp",
+    "name": "Anand Bibhuti",
+    "designation": "Sr. Software Developer",
+    "company": "https://cdn.prod.website-files.com/625416528a3419ca302b6dd8/656ef20033b67326925bc097_multiplier.tif.png"
+  }
+]
